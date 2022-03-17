@@ -22,4 +22,3 @@ Bu projede saf python dili kullanılmıştır.
 ## Projeyi geliştirenler
 
 Batuhan Ankara bu projenin sahibidir. [Linkedin](https://www.linkedin.com/in/batuhan-ankara-622190196/) ve  [GitHub](https://github.com/Batuhan-ankara) hesaplarına buradan erişebilirsiniz.
-asdas
